@@ -13,7 +13,7 @@ proyecto-ecommerce/
       |_ setup.sh
       |_ deploy.sh
    |_ backend/ 
-# Repositorio del Backend 
+ Repositorio del Backend 
       |_ … # Archivos y carpetas específicos del Backend 
    |_ README.md
 
