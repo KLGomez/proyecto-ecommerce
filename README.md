@@ -5,15 +5,7 @@ Este proyecto tiene como objetivo implementar un e-commerce en la nube utilizand
 ## Estructura del proyecto
 
 
-proyecto-ecommerce/
-|_ terraform/
-   |_ main.tf
-   |_ variables.tf
-   |_ outputs.tf
-|_ scripts/
-   |_ setup.sh
-   |_ deploy.sh
-|_ README.md
+proyecto-ecommerce/ |_ terraform/ |_ main.tf |_ variables.tf |_ outputs.tf |_ scripts/ |_ setup.sh |_ deploy.sh |_ README.md
 
 
 ## Pasos para configurar el proyecto
