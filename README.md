@@ -16,7 +16,6 @@ proyecto-ecommerce/
 │   └── ...
 └── README.md
 
-
 ## Pasos para configurar el proyecto
 
 1. **Configuración de Terraform:**
