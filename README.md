@@ -1,20 +1,19 @@
 # Proyecto de E-commerce con Terraform en AWS
 
-Este proyecto tiene como objetivo implementar un e-commerce en la nube utilizando Terraform para crear instancias EC2 en AWS. A continuación, se describen los pasos para configurar y utilizar este proyecto.
+Este proyecto tiene como objetivo implementar un e-commerce en la nube utilizando Terraform para crear instancias EC2 en AWS. A continuación, se describe la estructura del proyecto:
 
 ## Estructura del proyecto
 
-proyecto-ecommerce/
-├── terraform/
-│   ├── main.tf
-│   ├── variables.tf
-│   └── outputs.tf
-├── scripts/
-│   ├── setup.sh
-│   └── deploy.sh
-├── backend/  # Repositorio del Backend
-│   └── ...
-└── README.md
+- `terraform/`
+  - `main.tf`
+  - `variables.tf`
+  - `outputs.tf`
+- `scripts/`
+  - `setup.sh`
+  - `deploy.sh`
+- `backend/` (Repositorio del Backend)
+  - ...
+- `README.md`
 
 ## Pasos para configurar el proyecto
 
