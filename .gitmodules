@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/ThiagoZzzz/Backend-eCommerce.git
+[submodule "app/fronted"]
+	path = app/fronted
+	url = https://github.com/ramirosimari67/ECOMMERCE-OFICIAL.git
